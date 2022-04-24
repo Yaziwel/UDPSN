@@ -7,14 +7,14 @@
                  alt="(a) Low-dose"
                  height="500"/>
         	<br>
-        	(a) Low-dose (DRF=12)
+            <center>(a) Low-dose (DRF=12)</center>
         </center></div></td>    
      	<td><div><center>
     		<img src="readme.assets/3D-cGAN.png"
                  alt="Typora-Logo"
                  height="500"/>
     		<br>
-    		(b) 3D-cGAN
+            <center>(b) 3D-cGAN</center>
         </center></div></td>
 	</tr>	
     <tr>	<!--第二行-->
@@ -23,14 +23,14 @@
                  alt="Typora-Logo"
                  height="500"/>
         	<br>
-        	(c) UDPSN
+            <center>(c) UDPSN</center>
         </center></div></td>    
      	<td><div><center>
     		<img src="readme.assets/Full-dose.png"
                  alt="Typora-Logo"
                  height="500"/>
     		<br>
-    		(d) Full-dose
+            <center>(d) Full-dose</center>
         </center></div></td>
 	</tr>
 </table></div>
